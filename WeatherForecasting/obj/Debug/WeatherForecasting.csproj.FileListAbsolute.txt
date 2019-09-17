@@ -1,0 +1,12 @@
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\bin\Debug\WeatherForecasting.exe.config
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\bin\Debug\WeatherForecasting.exe
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\bin\Debug\WeatherForecasting.pdb
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\obj\Debug\WeatherForecasting.csprojResolveAssemblyReference.cache
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\obj\Debug\WeatherForecasting.Form1.resources
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\obj\Debug\WeatherForecasting.Properties.Resources.resources
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\obj\Debug\WeatherForecasting.csproj.GenerateResource.Cache
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\obj\Debug\WeatherForecasting.csproj.CoreCompileInputs.cache
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\obj\Debug\WeatherForecasting.exe
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\obj\Debug\WeatherForecasting.pdb
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\bin\Debug\Newtonsoft.Json.dll
+c:\users\jputtoj\source\repos\WeatherForecasting\WeatherForecasting\bin\Debug\Newtonsoft.Json.xml
